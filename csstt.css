@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+#tong{width: 1104px; height: 1500px; margin: auto }
+#header{width: 1104px; height: 61px; }
+#center{width: 1104px; height: 750px;  }
+.menu{background: #ef2c2c; }
+.left{width:190px; height: 750px; float: left;}
+.right{width: 914px; height: 750px; float: left;}
+#footer{width: 1104px; height: 345px; float: left;}
